@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}File a Case — Uber_Support Agent Case File{% endblock %}
+{% block content %}
+
+<section class="panel">
+  <h2>Intake</h2>
+  <p class="panel-note">Type a message as if it were an incoming @Uber_Support tweet. The agent will classify it, retrieve the closest historically-resolved precedent, draft a grounded reply, and decide whether to auto-handle or escalate.</p>
+  <form method="post" action="/demo">
+    <textarea name="message" rows="3" placeholder="e.g. my driver just got into an accident, we're both shaken up">{{ message }}</textarea>
+    <button type="submit">File Case</button>
+  </form>
+  <div class="try-these">
+    <span>Try:</span>
+    <button class="chip" type="button" onclick="document.querySelector('textarea').value=this.textContent.trim()">left my phone in the back seat, how do I get it back?</button>
+    <button class="chip" type="button" onclick="document.querySelector('textarea').value=this.textContent.trim()">my driver just got into an accident, we're both shaken up</button>
+    <button class="chip" type="button" onclick="document.querySelector('textarea').value=this.textContent.trim()">why was I charged twice for one ride??</button>
+    <button class="chip" type="button" onclick="document.querySelector('textarea').value=this.textContent.trim()">still nothing???</button>
+  </div>
+</section>
+
+{% if result %}
+<section class="panel resolution">
+  <div class="resolution-head">
+    <h2>Case Resolution</h2>
+    <span class="badge {% if result.escalate %}badge-escalate{% else %}badge-auto{% endif %}">
+      {{ 'ESCALATED' if result.escalate else 'AUTO-HANDLED' }}
+    </span>
+  </div>
+
+  <table class="ledger-table wide">
+    <tr><td>Intent</td><td>{{ result.intent }} <span class="dim">(confidence {{ result.intent_confidence }})</span></td></tr>
+    <tr><td>Classifier rationale</td><td class="dim">{{ result.intent_rationale }}</td></tr>
+    <tr><td>Grounded on precedent</td><td>thread {{ result.grounded_on_thread_id }} <span class="dim">(similarity {{ result.top_similarity | round(2) }})</span></td></tr>
+    <tr><td>Escalation reason</td><td>{{ result.escalation_reason }}</td></tr>
+  </table>
+
+  <div class="draft-box">
+    <span class="draft-label">Drafted reply</span>
+    <p>{{ result.draft_reply }}</p>
+  </div>
+</section>
+{% endif %}
+
+{% endblock %}

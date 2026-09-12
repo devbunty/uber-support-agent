@@ -1,0 +1,640 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+100368,45325491,True,Mon Jun 05 20:27:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100369,
+100104,Uber_Support,False,Sat Nov 11 03:38:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100103
+100099,Uber_Support,False,Sun May 28 19:56:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100100,100098
+100384,Uber_Support,False,Sun Jun 18 23:15:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,100385,100383
+100402,34669572,True,Tue May 23 21:39:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100403,
+100034,Uber_Support,False,Sun Aug 27 12:03:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,100035,100033
+100265,68272536,True,Sat Nov 25 06:34:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100266,
+100119,Uber_Support,False,Thu Aug 31 06:08:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100120,100118
+100327,29094692,True,Wed May 31 11:49:00 +0000 2023,ok thank you,,100326
+100493,57661401,True,Mon Oct 09 05:03:00 +0000 2023,"done, sent the details",,100492
+100059,Uber_Support,False,Tue Jan 31 21:51:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100058
+100515,Uber_Support,False,Sat Jan 21 08:46:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,,100514
+100608,29460311,True,Thu Jun 08 14:43:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support...",100609,
+100420,Uber_Support,False,Wed Feb 01 02:37:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100421,100419
+100523,61684447,True,Fri Nov 03 15:41:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100524,
+100407,66181191,True,Thu Nov 30 08:00:00 +0000 2023,still waiting to hear back,,100406
+100162,Uber_Support,False,Sat Nov 25 06:51:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100161
+100415,34949696,True,Sun Jun 25 08:00:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100416,
+100026,48578460,True,Fri Feb 17 02:59:00 +0000 2023,still waiting to hear back,,100025
+100139,77507631,True,Thu Nov 23 21:35:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support 🙏",100140,
+100287,34101347,True,Mon Oct 23 03:51:00 +0000 2023,still waiting to hear back,,100286
+100078,85394042,True,Wed Jan 11 03:29:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100079,
+100173,97619725,True,Wed Apr 05 17:23:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100174,
+100470,71817963,True,Fri Sep 01 18:47:00 +0000 2023,"done, sent the details",,100469
+100551,87351257,True,Sun Oct 01 13:05:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support 🙏",100552,
+100147,Uber_Support,False,Tue Aug 15 05:11:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100148,100146
+100272,15838113,True,Wed Nov 29 08:09:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100273,
+100077,Uber_Support,False,Fri Oct 13 13:11:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100076
+100081,78149300,True,Sat Dec 09 18:57:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100082,
+100212,Uber_Support,False,Tue Feb 21 16:44:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100211
+100071,Uber_Support,False,Sat Apr 29 17:19:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100070
+100283,Uber_Support,False,Sun May 14 19:50:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100284,100282
+100273,Uber_Support,False,Wed Nov 29 08:22:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100272
+100216,54519683,True,Sun Jun 11 02:03:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100217,
+100150,Uber_Support,False,Mon Jun 19 04:58:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100149
+100469,Uber_Support,False,Fri Sep 01 18:41:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100470,100468
+100110,12474155,True,Sun Sep 24 21:45:00 +0000 2023,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately @Uber_Support 😡",100111,
+100313,Uber_Support,False,Thu Jul 06 15:54:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100314,100312
+100240,Uber_Support,False,Mon Mar 27 07:36:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,,100239
+100243,43209375,True,Thu Mar 09 14:59:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100244,
+100049,Uber_Support,False,Sun May 14 13:39:00 +0000 2023,"Love to hear it, thank you for the kind words!",100050,100048
+100198,Uber_Support,False,Thu Mar 23 10:18:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100197
+100062,95341298,True,Tue May 02 03:22:00 +0000 2023,sent!,,100061
+100140,Uber_Support,False,Thu Nov 23 22:09:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100139
+100124,57859883,True,Wed Mar 08 14:42:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support...,100125,
+100259,22234294,True,Sat Aug 26 18:30:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100260,
+100053,35990584,True,Sun Sep 10 03:20:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100054,
+100508,71509425,True,Tue Jun 27 06:29:00 +0000 2023,"done, sent the details",,100507
+100406,Uber_Support,False,Thu Nov 30 07:26:00 +0000 2023,This is incredibly concerning and we want to help immediately. Can you please contact our dedicated safety team here: https://help.uber.com/safety,100407,100405
+100085,70066221,True,Sun Feb 19 23:58:00 +0000 2023,sent!,,100084
+100369,Uber_Support,False,Mon Jun 05 21:27:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100370,100368
+100309,95797050,True,Mon Nov 13 20:46:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100310,
+100373,32756687,True,Sun Jun 18 15:07:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100374,
+100152,Uber_Support,False,Sun Apr 16 11:03:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100153,100151
+100196,27175419,True,Thu Aug 17 03:04:00 +0000 2023,"done, sent the details",,100195
+100031,45265254,True,Thu Apr 13 15:32:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100032,
+100495,Uber_Support,False,Sun Mar 12 01:42:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100494
+100292,97610038,True,Wed Dec 13 05:33:00 +0000 2023,still waiting to hear back,,100291
+100033,92891895,True,Sun Aug 27 11:11:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100034,
+100341,38449609,True,Tue May 23 13:31:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support",100342,
+100224,72283819,True,Mon Jan 23 18:49:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100225,
+100298,71257352,True,Wed Feb 22 08:06:00 +0000 2023,"done, sent the details",,100297
+100063,27050801,True,Wed Jan 11 00:43:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100064,
+100118,21339367,True,Thu Aug 31 04:50:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100119,
+100032,Uber_Support,False,Thu Apr 13 15:50:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100031
+100540,Uber_Support,False,Fri Jul 28 00:53:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100539
+100043,51856109,True,Wed Feb 01 06:28:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100044,
+100137,12528752,True,Thu Aug 17 00:03:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100138,
+100417,75084754,True,Tue Jun 06 00:13:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100418,
+100264,57940118,True,Wed May 31 19:55:00 +0000 2023,still waiting to hear back,,100263
+100560,72268986,True,Mon Jul 10 09:55:00 +0000 2023,still waiting to hear back,,100559
+100572,57435208,True,Sat Apr 01 18:59:00 +0000 2023,just dm'd you,,100571
+100492,Uber_Support,False,Mon Oct 09 04:25:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100493,100491
+100054,Uber_Support,False,Sun Sep 10 04:08:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100055,100053
+100533,41963674,True,Sun Feb 05 12:32:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100534,
+100168,84377153,True,Wed Jul 19 23:13:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support 🙏,100169,
+100038,86072408,True,Sat Feb 25 01:46:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100039,
+100098,44709914,True,Sun May 28 19:13:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100099,
+100542,Uber_Support,False,Sun Sep 24 03:31:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100543,100541
+100580,Uber_Support,False,Wed Dec 13 05:04:00 +0000 2023,We're so sorry to hear this and want to make sure you're safe. Please reach out to our safety line so a specialist can help right away: https://help.uber.com/safety,100581,100579
+100392,Uber_Support,False,Thu Aug 17 19:20:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100393,100391
+100597,Uber_Support,False,Mon Sep 04 17:47:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100596
+100527,30051053,True,Fri Apr 07 23:48:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support...,100528,
+100389,Uber_Support,False,Fri Sep 01 05:37:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100390,100388
+100609,Uber_Support,False,Thu Jun 08 16:02:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100608
+100175,97619725,True,Wed Apr 05 17:45:00 +0000 2023,just dm'd you,,100174
+100307,54403096,True,Fri Oct 06 09:31:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support 🙏",100308,
+100342,Uber_Support,False,Tue May 23 13:47:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100343,100341
+100494,38547258,True,Sun Mar 12 00:27:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100495,
+100421,17658849,True,Wed Feb 01 03:19:00 +0000 2023,sent!,,100420
+100011,Uber_Support,False,Mon Jun 19 13:02:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100012,100010
+100332,45339330,True,Sun Sep 17 02:47:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100333,
+100238,67251144,True,Sat Nov 18 17:09:00 +0000 2023,still waiting to hear back,,100237
+100411,29631149,True,Tue May 09 13:42:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100412,
+100271,77707886,True,Sat Mar 04 12:47:00 +0000 2023,just dm'd you,,100270
+100256,Uber_Support,False,Tue Oct 24 15:45:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100255
+100448,Uber_Support,False,Thu Jan 19 03:35:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100447
+100157,Uber_Support,False,Wed May 24 12:24:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,100158,100156
+100520,Uber_Support,False,Sun Oct 22 00:56:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100519
+100013,56100526,True,Sat Sep 23 13:59:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100014,
+100379,Uber_Support,False,Tue Feb 28 14:33:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100378
+100600,27082244,True,Wed May 31 09:08:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100601,
+100080,85394042,True,Wed Jan 11 05:34:00 +0000 2023,"done, sent the details",,100079
+100218,37837083,True,Fri May 19 09:37:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100219,
+100599,Uber_Support,False,Fri Oct 27 00:17:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100598
+100444,54412145,True,Sun Mar 12 00:25:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support 🙏",100445,
+100115,95359381,True,Mon Feb 20 20:52:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100116,
+100534,Uber_Support,False,Sun Feb 05 13:11:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,100535,100533
+100571,Uber_Support,False,Sat Apr 01 18:26:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,100572,100570
+100017,Uber_Support,False,Sun Jan 15 07:20:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100016
+100591,42016493,True,Fri Apr 28 22:44:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100592,
+100186,51878080,True,Sun Nov 05 23:54:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100187,
+100009,Uber_Support,False,Sun Feb 05 12:26:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100008
+100199,42528686,True,Fri Jun 23 01:16:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100200,
+100545,Uber_Support,False,Mon May 29 14:57:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100546,100544
+100208,35140753,True,Thu Nov 23 09:31:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100209,
+100556,14036404,True,Sun Jan 08 01:58:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100557,
+100505,91701391,True,Fri Feb 17 16:44:00 +0000 2023,sent!,,100504
+100190,80848359,True,Wed Nov 08 12:22:00 +0000 2023,"done, sent the details",,100189
+100607,62436779,True,Tue Jul 11 14:36:00 +0000 2023,ok thank you,,100606
+100619,81154026,True,Fri Sep 29 18:43:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100620,
+100161,11573248,True,Sat Nov 25 06:00:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100162,
+100203,Uber_Support,False,Fri Jun 02 22:40:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100202
+100193,96885593,True,Sun Nov 05 05:54:00 +0000 2023,sent!,,100192
+100073,Uber_Support,False,Sat Jun 03 04:28:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100072
+100618,Uber_Support,False,Sun Feb 26 04:56:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100617
+100284,98428371,True,Sun May 14 20:40:00 +0000 2023,"done, sent the details",,100283
+100480,Uber_Support,False,Mon Aug 07 21:39:00 +0000 2023,We're so sorry to hear this and want to make sure you're safe. Please reach out to our safety line so a specialist can help right away: https://help.uber.com/safety,100481,100479
+100246,41055424,True,Fri Aug 25 12:38:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100247,
+100481,30283041,True,Mon Aug 07 22:18:00 +0000 2023,still waiting to hear back,,100480
+100365,24033524,True,Thu Aug 17 14:57:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100366,
+100234,Uber_Support,False,Sun Jan 29 19:51:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100235,100233
+100419,17658849,True,Wed Feb 01 01:11:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support...",100420,
+100064,Uber_Support,False,Wed Jan 11 02:03:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100063
+100340,94650589,True,Sat Dec 02 14:26:00 +0000 2023,just dm'd you,,100339
+100028,Uber_Support,False,Thu Oct 26 07:45:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100027
+100051,63778945,True,Wed Sep 27 09:06:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100052,
+100281,15117547,True,Fri Sep 01 05:51:00 +0000 2023,"done, sent the details",,100280
+100628,15679245,True,Sat Sep 09 21:48:00 +0000 2023,sent!,,100627
+100532,Uber_Support,False,Sun Jul 23 21:48:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100531
+100066,Uber_Support,False,Fri Dec 08 07:45:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,,100065
+100455,44628537,True,Sat Nov 11 00:12:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100456,
+100517,Uber_Support,False,Tue Oct 03 23:27:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100518,100516
+100061,Uber_Support,False,Tue May 02 02:35:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100062,100060
+100483,Uber_Support,False,Sun Oct 22 00:48:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100484,100482
+100092,Uber_Support,False,Thu May 04 11:18:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100093,100091
+100106,Uber_Support,False,Fri Dec 08 13:55:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100105
+100142,Uber_Support,False,Sat Sep 23 14:06:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100141
+100214,Uber_Support,False,Sun Apr 30 21:04:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100215,100213
+100233,89955780,True,Sun Jan 29 18:26:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support 😡",100234,
+100037,Uber_Support,False,Sat Mar 11 10:19:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100036
+100374,Uber_Support,False,Sun Jun 18 15:25:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100375,100373
+100114,Uber_Support,False,Tue Jul 04 11:56:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100113
+100312,66060995,True,Thu Jul 06 15:50:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support!,100313,
+100456,Uber_Support,False,Sat Nov 11 01:26:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100455
+100612,82276193,True,Mon Aug 14 17:34:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100613,
+100518,69227619,True,Tue Oct 03 23:52:00 +0000 2023,still waiting to hear back,,100517
+100087,Uber_Support,False,Thu Nov 23 14:40:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100088,100086
+100165,58413585,True,Sun Dec 03 23:20:00 +0000 2023,ok thank you,,100164
+100395,Uber_Support,False,Thu Nov 09 15:25:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100396,100394
+100425,Uber_Support,False,Mon Oct 16 07:12:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100424
+100345,Uber_Support,False,Thu Jan 12 05:54:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,,100344
+100200,Uber_Support,False,Fri Jun 23 02:41:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100201,100199
+100331,Uber_Support,False,Mon Jan 30 07:44:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100330
+100502,14506907,True,Thu Mar 16 13:39:00 +0000 2023,still waiting to hear back,,100501
+100519,42005218,True,Sun Oct 22 00:30:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100520,
+100171,Uber_Support,False,Mon Jun 26 20:03:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100172,100170
+100084,Uber_Support,False,Sun Feb 19 23:44:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100085,100083
+100491,57661401,True,Mon Oct 09 03:17:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100492,
+100630,Uber_Support,False,Mon Mar 13 15:45:00 +0000 2023,This is incredibly concerning and we want to help immediately. Can you please contact our dedicated safety team here: https://help.uber.com/safety,,100629
+100437,29393035,True,Fri Jan 13 08:11:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100438,
+100314,66060995,True,Thu Jul 06 16:17:00 +0000 2023,"done, sent the details",,100313
+100223,69907747,True,Sun Mar 12 08:06:00 +0000 2023,still waiting to hear back,,100222
+100039,Uber_Support,False,Sat Feb 25 01:57:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100038
+100548,Uber_Support,False,Sat Feb 18 13:00:00 +0000 2023,We're so sorry to hear this and want to make sure you're safe. Please reach out to our safety line so a specialist can help right away: https://help.uber.com/safety,,100547
+100136,12158188,True,Sat Oct 28 22:07:00 +0000 2023,still waiting to hear back,,100135
+100109,81281134,True,Wed Oct 04 13:28:00 +0000 2023,sent!,,100108
+100386,44522619,True,Tue Aug 08 19:17:00 +0000 2023,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately @Uber_Support",100387,
+100568,85755780,True,Fri Oct 20 20:45:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100569,
+100308,Uber_Support,False,Fri Oct 06 10:10:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100307
+100467,Uber_Support,False,Sun May 14 05:42:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100466
+100610,37421960,True,Mon Jun 05 06:21:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100611,
+100367,24033524,True,Thu Aug 17 15:34:00 +0000 2023,sent!,,100366
+100471,51942343,True,Sat Sep 23 13:57:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100472,
+100251,59960799,True,Thu Jul 06 15:46:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100252,
+100594,91325776,True,Tue Nov 14 05:17:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support 😡",100595,
+100172,48414230,True,Mon Jun 26 20:23:00 +0000 2023,ok thank you,,100171
+100616,57124752,True,Thu Jun 15 00:32:00 +0000 2023,still waiting to hear back,,100615
+100636,32738446,True,Thu Jan 12 23:24:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100637,
+100001,Uber_Support,False,Wed May 24 18:49:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100000
+100075,Uber_Support,False,Sat Mar 04 18:42:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100074
+100543,91678972,True,Sun Sep 24 03:36:00 +0000 2023,sent!,,100542
+100504,Uber_Support,False,Fri Feb 17 16:41:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100505,100503
+100215,32230984,True,Sun Apr 30 21:58:00 +0000 2023,still waiting to hear back,,100214
+100627,Uber_Support,False,Sat Sep 09 21:10:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100628,100626
+100334,45607459,True,Tue Apr 18 15:08:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100335,
+100002,38816302,True,Sat Jan 14 15:38:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support",100003,
+100381,Uber_Support,False,Fri Feb 24 23:43:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100382,100380
+100016,66599395,True,Sun Jan 15 06:35:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100017,
+100268,Uber_Support,False,Fri Feb 17 08:59:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100267
+100588,14155695,True,Thu Mar 30 04:51:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100589,
+100526,Uber_Support,False,Sun May 14 07:25:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100525
+100131,48141534,True,Thu Sep 21 15:46:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100132,
+100439,73690811,True,Wed Oct 11 10:50:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100440,
+100293,32160892,True,Thu Sep 07 19:31:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100294,
+100018,87832216,True,Wed Oct 18 03:20:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support...,100019,
+100338,94650589,True,Sat Dec 02 13:44:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100339,
+100230,Uber_Support,False,Tue Oct 10 16:12:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100229
+100296,71257352,True,Wed Feb 22 06:33:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100297,
+100436,Uber_Support,False,Thu Aug 10 23:39:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100435
+100404,34669572,True,Tue May 23 22:17:00 +0000 2023,still waiting to hear back,,100403
+100156,75248694,True,Wed May 24 11:31:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100157,
+100008,59982352,True,Sun Feb 05 11:21:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100009,
+100430,75950864,True,Fri Mar 31 18:31:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100431,
+100528,Uber_Support,False,Sat Apr 08 00:32:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100527
+100303,Uber_Support,False,Sat Feb 11 22:47:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100302
+100576,93339264,True,Fri Apr 07 18:21:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100577,
+100048,79578048,True,Sun May 14 12:16:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support",100049,
+100629,13963730,True,Mon Mar 13 14:21:00 +0000 2023,"my driver just got into an accident on the highway, we're both okay but this was terrifying @Uber_Support",100630,
+100464,26286981,True,Thu Feb 16 22:56:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100465,
+100330,72446885,True,Mon Jan 30 07:13:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100331,
+100253,56935889,True,Tue Mar 21 05:48:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support!,100254,
+100317,80207784,True,Thu May 11 01:29:00 +0000 2023,still waiting to hear back,,100316
+100102,Uber_Support,False,Wed Nov 22 23:19:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100101
+100261,22234294,True,Sat Aug 26 20:17:00 +0000 2023,sent!,,100260
+100401,37512207,True,Tue Sep 19 05:11:00 +0000 2023,still waiting to hear back,,100400
+100574,Uber_Support,False,Mon Feb 20 19:32:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100575,100573
+100041,Uber_Support,False,Sat Aug 19 23:50:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100042,100040
+100323,13385674,True,Sun May 28 19:35:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100324,
+100410,62608350,True,Sun Jun 18 08:12:00 +0000 2023,"done, sent the details",,100409
+100422,91631301,True,Mon Feb 06 23:01:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100423,
+100449,77221981,True,Tue Nov 28 06:08:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100450,
+100319,Uber_Support,False,Fri Sep 15 14:52:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100318
+100302,45479229,True,Sat Feb 11 21:34:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100303,
+100154,29024111,True,Sat Sep 30 03:38:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100155,
+100076,74758310,True,Fri Oct 13 13:04:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support!",100077,
+100277,79510357,True,Sun Feb 26 23:20:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support 🙏,100278,
+100490,Uber_Support,False,Fri Sep 15 22:24:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100489
+100473,51942343,True,Sat Sep 23 15:26:00 +0000 2023,"done, sent the details",,100472
+100108,Uber_Support,False,Wed Oct 04 13:11:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100109,100107
+100586,61895479,True,Wed Mar 15 06:02:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100587,
+100578,93339264,True,Fri Apr 07 20:16:00 +0000 2023,sent!,,100577
+100241,26262455,True,Wed Oct 11 21:33:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100242,
+100274,31511900,True,Tue Aug 22 03:14:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100275,
+100454,23604527,True,Wed Aug 30 17:03:00 +0000 2023,just dm'd you,,100453
+100488,Uber_Support,False,Wed Oct 18 08:22:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100487
+100474,32343260,True,Wed Feb 22 18:12:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100475,
+100549,10622701,True,Wed May 10 16:08:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support...",100550,
+100235,89955780,True,Sun Jan 29 20:26:00 +0000 2023,"done, sent the details",,100234
+100160,Uber_Support,False,Tue Feb 14 00:48:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100159
+100475,Uber_Support,False,Wed Feb 22 19:15:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100476,100474
+100145,48563325,True,Sat Oct 07 07:53:00 +0000 2023,ok thank you,,100144
+100554,Uber_Support,False,Sat Feb 18 22:32:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100555,100553
+100010,52164119,True,Mon Jun 19 12:29:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100011,
+100275,Uber_Support,False,Tue Aug 22 04:16:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100276,100274
+100122,Uber_Support,False,Sun Apr 09 00:04:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100123,100121
+100511,15185054,True,Sat Dec 09 20:49:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support 😞",100512,
+100189,Uber_Support,False,Wed Nov 08 11:38:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100190,100188
+100486,Uber_Support,False,Thu Feb 23 13:15:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100485
+100270,Uber_Support,False,Sat Mar 04 12:27:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100271,100269
+100593,42016493,True,Fri Apr 28 23:34:00 +0000 2023,sent!,,100592
+100541,91678972,True,Sun Sep 24 02:15:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support!",100542,
+100506,71509425,True,Tue Jun 27 06:01:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100507,
+100583,Uber_Support,False,Thu Aug 03 22:19:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100582
+100499,Uber_Support,False,Sat Oct 14 16:33:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100498
+100167,Uber_Support,False,Fri Apr 07 18:03:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100166
+100458,Uber_Support,False,Sat Jul 01 06:47:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100457
+100052,Uber_Support,False,Wed Sep 27 09:11:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100051
+100301,14943649,True,Tue Mar 14 12:01:00 +0000 2023,still waiting to hear back,,100300
+100095,Uber_Support,False,Mon May 01 16:56:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100094
+100188,80848359,True,Wed Nov 08 11:08:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100189,
+100151,12349408,True,Sun Apr 16 10:27:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100152,
+100074,30106149,True,Sat Mar 04 17:59:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100075,
+100202,96861466,True,Fri Jun 02 22:09:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100203,
+100482,41454364,True,Sat Oct 21 23:52:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support...",100483,
+100014,Uber_Support,False,Sat Sep 23 15:06:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100015,100013
+100393,44870850,True,Thu Aug 17 19:51:00 +0000 2023,still waiting to hear back,,100392
+100040,29938108,True,Sat Aug 19 23:33:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100041,
+100510,Uber_Support,False,Tue Jul 04 10:24:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100509
+100538,55755623,True,Thu Jul 06 00:42:00 +0000 2023,sent!,,100537
+100424,64020531,True,Mon Oct 16 05:45:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100425,
+100398,Uber_Support,False,Sat Jan 14 21:33:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100397
+100564,32055064,True,Tue Dec 12 05:26:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100565,
+100004,39962626,True,Fri Aug 18 14:29:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support 😞",100005,
+100164,Uber_Support,False,Sun Dec 03 22:39:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100165,100163
+100438,Uber_Support,False,Fri Jan 13 08:25:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100437
+100097,Uber_Support,False,Tue Jan 31 15:08:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,,100096
+100443,Uber_Support,False,Sun May 28 00:18:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100442
+100435,12759485,True,Thu Aug 10 23:25:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100436,
+100377,Uber_Support,False,Mon Oct 02 19:31:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100376
+100631,29289438,True,Sat Jul 29 03:46:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support!",100632,
+100135,Uber_Support,False,Sat Oct 28 21:31:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,100136,100134
+100336,37216185,True,Sun Dec 10 22:53:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support",100337,
+100169,Uber_Support,False,Thu Jul 20 00:12:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100168
+100042,29938108,True,Sun Aug 20 00:20:00 +0000 2023,still waiting to hear back,,100041
+100614,57124752,True,Wed Jun 14 22:56:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100615,
+100305,Uber_Support,False,Sun Apr 02 18:52:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100306,100304
+100005,Uber_Support,False,Fri Aug 18 14:37:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100004
+100023,69812891,True,Fri Apr 14 16:09:00 +0000 2023,sent!,,100022
+100036,18354761,True,Sat Mar 11 09:34:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100037,
+100573,40263205,True,Mon Feb 20 18:09:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100574,
+100329,Uber_Support,False,Mon Nov 20 20:06:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100328
+100333,Uber_Support,False,Sun Sep 17 04:16:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100332
+100185,Uber_Support,False,Fri Aug 18 06:38:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100184
+100497,Uber_Support,False,Thu Nov 09 00:57:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100496
+100239,33245418,True,Mon Mar 27 06:26:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100240,
+100555,82119406,True,Sat Feb 18 23:08:00 +0000 2023,ok thank you,,100554
+100166,43463796,True,Fri Apr 07 17:58:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support...,100167,
+100457,17330681,True,Sat Jul 01 05:32:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100458,
+100442,76267357,True,Sat May 27 23:50:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100443,
+100229,72511088,True,Tue Oct 10 15:54:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100230,
+100158,75248694,True,Wed May 24 12:51:00 +0000 2023,just dm'd you,,100157
+100416,Uber_Support,False,Sun Jun 25 08:33:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100415
+100100,44709914,True,Sun May 28 20:48:00 +0000 2023,sent!,,100099
+100562,Uber_Support,False,Fri Feb 10 02:03:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100563,100561
+100400,Uber_Support,False,Tue Sep 19 04:57:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100401,100399
+100363,41075102,True,Sat Jul 01 10:20:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100364,
+100503,91701391,True,Fri Feb 17 15:51:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100504,
+100324,Uber_Support,False,Sun May 28 20:55:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100323
+100390,40677423,True,Fri Sep 01 06:07:00 +0000 2023,sent!,,100389
+100184,81031470,True,Fri Aug 18 05:45:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100185,
+100622,Uber_Support,False,Sat Sep 09 05:41:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100623,100621
+100531,38341220,True,Sun Jul 23 20:51:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support!,100532,
+100468,71817963,True,Fri Sep 01 18:32:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100469,
+100403,Uber_Support,False,Tue May 23 22:13:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,100404,100402
+100460,Uber_Support,False,Fri Jan 06 04:30:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100459
+100561,47530342,True,Fri Feb 10 01:32:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100562,
+100306,24040355,True,Sun Apr 02 19:29:00 +0000 2023,ok thank you,,100305
+100452,23604527,True,Wed Aug 30 14:47:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100453,
+100362,Uber_Support,False,Fri Jun 30 02:21:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100361
+100501,Uber_Support,False,Thu Mar 16 12:49:00 +0000 2023,This is incredibly concerning and we want to help immediately. Can you please contact our dedicated safety team here: https://help.uber.com/safety,100502,100500
+100280,Uber_Support,False,Fri Sep 01 05:35:00 +0000 2023,"Love to hear it, thank you for the kind words!",100281,100279
+100060,95341298,True,Tue May 02 01:34:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100061,
+100595,Uber_Support,False,Tue Nov 14 06:04:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100594
+100170,48414230,True,Mon Jun 26 19:01:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100171,
+100489,72454585,True,Fri Sep 15 21:33:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100490,
+100288,15471626,True,Sun Jan 15 19:13:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100289,
+100300,Uber_Support,False,Tue Mar 14 11:50:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,100301,100299
+100072,79358465,True,Sat Jun 03 03:30:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support 😞",100073,
+100476,32343260,True,Wed Feb 22 19:33:00 +0000 2023,still waiting to hear back,,100475
+100153,12349408,True,Sun Apr 16 11:08:00 +0000 2023,just dm'd you,,100152
+100485,86760223,True,Thu Feb 23 12:29:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100486,
+100524,Uber_Support,False,Fri Nov 03 16:24:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100523
+100068,Uber_Support,False,Tue Jul 11 17:25:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100069,100067
+100227,52477713,True,Sun Dec 03 12:01:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100228,
+100263,Uber_Support,False,Wed May 31 19:41:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100264,100262
+100003,Uber_Support,False,Sat Jan 14 15:47:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100002
+100123,31143713,True,Sun Apr 09 01:01:00 +0000 2023,sent!,,100122
+100121,31143713,True,Sat Apr 08 22:52:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100122,
+100569,Uber_Support,False,Fri Oct 20 21:28:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,,100568
+100434,85506730,True,Sat Jul 01 06:18:00 +0000 2023,ok thank you,,100433
+100605,62436779,True,Tue Jul 11 13:19:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100606,
+100351,14620689,True,Tue Dec 12 16:35:00 +0000 2023,sent!,,100350
+100521,39602030,True,Sun Jan 29 07:42:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100522,
+100070,88710264,True,Sat Apr 29 16:32:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100071,
+100447,87046889,True,Thu Jan 19 02:16:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support!,100448,
+100325,29094692,True,Wed May 31 10:24:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100326,
+100103,45494011,True,Sat Nov 11 03:02:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100104,
+100047,13099855,True,Thu Mar 16 19:05:00 +0000 2023,sent!,,100046
+100210,35140753,True,Thu Nov 23 10:53:00 +0000 2023,still waiting to hear back,,100209
+100603,47488161,True,Tue Nov 14 18:18:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100604,
+100183,65550512,True,Fri Sep 29 14:29:00 +0000 2023,ok thank you,,100182
+100086,26421523,True,Thu Nov 23 14:20:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100087,
+100030,Uber_Support,False,Fri Feb 24 22:49:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100029
+100477,86076828,True,Tue May 02 13:32:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100478,
+100372,Uber_Support,False,Thu Aug 24 08:26:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100371
+100278,Uber_Support,False,Sun Feb 26 23:27:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100277
+100120,21339367,True,Thu Aug 31 06:11:00 +0000 2023,ok thank you,,100119
+100445,Uber_Support,False,Sun Mar 12 00:32:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100446,100444
+100083,70066221,True,Sun Feb 19 22:17:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100084,
+100279,15117547,True,Fri Sep 01 04:10:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support",100280,
+100604,Uber_Support,False,Tue Nov 14 18:56:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100603
+100133,48141534,True,Thu Sep 21 17:41:00 +0000 2023,"done, sent the details",,100132
+100286,Uber_Support,False,Mon Oct 23 03:18:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100287,100285
+100584,46790691,True,Thu Mar 30 14:52:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100585,
+100606,Uber_Support,False,Tue Jul 11 14:24:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100607,100605
+100096,24063279,True,Tue Jan 31 14:32:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100097,
+100582,72601467,True,Thu Aug 03 21:40:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100583,
+100065,98217056,True,Fri Dec 08 07:42:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100066,
+100262,57940118,True,Wed May 31 18:17:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100263,
+100344,13856428,True,Thu Jan 12 05:44:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100345,
+100219,Uber_Support,False,Fri May 19 09:50:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100220,100218
+100105,42002360,True,Fri Dec 08 13:28:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100106,
+100357,Uber_Support,False,Thu Jan 12 10:13:00 +0000 2023,We're so sorry to hear this and want to make sure you're safe. Please reach out to our safety line so a specialist can help right away: https://help.uber.com/safety,,100356
+100462,Uber_Support,False,Wed Aug 23 15:48:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,100463,100461
+100027,28377915,True,Thu Oct 26 06:58:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100028,
+100260,Uber_Support,False,Sat Aug 26 19:57:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100261,100259
+100513,15185054,True,Sat Dec 09 21:43:00 +0000 2023,"done, sent the details",,100512
+100320,17533716,True,Wed Aug 23 19:38:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100321,
+100472,Uber_Support,False,Sat Sep 23 14:39:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100473,100471
+100577,Uber_Support,False,Fri Apr 07 19:42:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100578,100576
+100544,79734429,True,Mon May 29 14:13:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100545,
+100257,14223373,True,Tue Oct 17 13:16:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100258,
+100354,59395387,True,Tue Nov 28 10:37:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100355,
+100602,27082244,True,Wed May 31 10:23:00 +0000 2023,"done, sent the details",,100601
+100611,Uber_Support,False,Mon Jun 05 07:01:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100610
+100539,47157808,True,Fri Jul 28 00:26:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support!,100540,
+100431,Uber_Support,False,Fri Mar 31 18:53:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100430
+100046,Uber_Support,False,Thu Mar 16 18:20:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100047,100045
+100269,77707886,True,Sat Mar 04 12:12:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support!,100270,
+100143,48563325,True,Sat Oct 07 05:53:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100144,
+100113,62759119,True,Tue Jul 04 11:29:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100114,
+100315,80207784,True,Thu May 11 00:50:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100316,
+100382,61570866,True,Sat Feb 25 00:01:00 +0000 2023,sent!,,100381
+100566,63101025,True,Sat Dec 09 17:08:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100567,
+100380,61570866,True,Fri Feb 24 23:06:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100381,
+100355,Uber_Support,False,Tue Nov 28 11:15:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100354
+100553,82119406,True,Sat Feb 18 22:09:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support 😞",100554,
+100633,29289438,True,Sat Jul 29 04:25:00 +0000 2023,just dm'd you,,100632
+100383,62122275,True,Sun Jun 18 21:45:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100384,
+100176,76716382,True,Thu Jul 20 09:21:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100177,
+100426,95442367,True,Thu Nov 02 09:34:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100427,
+100107,81281134,True,Wed Oct 04 12:35:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100108,
+100559,Uber_Support,False,Mon Jul 10 09:23:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100560,100558
+100634,72749150,True,Sat Aug 12 04:30:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100635,
+100019,Uber_Support,False,Wed Oct 18 04:47:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100020,100018
+100056,55330357,True,Thu Mar 16 09:50:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100057,
+100348,89251917,True,Thu Oct 05 09:31:00 +0000 2023,just dm'd you,,100347
+100537,Uber_Support,False,Wed Jul 05 23:43:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100538,100536
+100024,48578460,True,Fri Feb 17 02:11:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100025,
+100356,65421310,True,Thu Jan 12 09:03:00 +0000 2023,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride @Uber_Support 😡",100357,
+100620,Uber_Support,False,Fri Sep 29 19:24:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100619
+100299,14943649,True,Tue Mar 14 10:22:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100300,
+100021,69812891,True,Fri Apr 14 14:50:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100022,
+100146,50858176,True,Tue Aug 15 03:41:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support...",100147,
+100335,Uber_Support,False,Tue Apr 18 15:43:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100334
+100397,24278084,True,Sat Jan 14 21:19:00 +0000 2023,"just wanted to say the new app update is so much smoother, nice work @Uber_Support!",100398,
+100391,44870850,True,Thu Aug 17 17:58:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100392,
+100427,Uber_Support,False,Thu Nov 02 10:32:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100426
+100057,Uber_Support,False,Thu Mar 16 10:53:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,,100056
+100000,30246633,True,Wed May 24 18:01:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100001,
+100178,76716382,True,Thu Jul 20 10:33:00 +0000 2023,just dm'd you,,100177
+100294,Uber_Support,False,Thu Sep 07 19:53:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100295,100293
+100350,Uber_Support,False,Tue Dec 12 15:44:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100351,100349
+100589,Uber_Support,False,Thu Mar 30 06:07:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,100590,100588
+100222,Uber_Support,False,Sun Mar 12 08:03:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100223,100221
+100563,47530342,True,Fri Feb 10 02:33:00 +0000 2023,"done, sent the details",,100562
+100266,Uber_Support,False,Sat Nov 25 07:49:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",,100265
+100509,99888496,True,Tue Jul 04 09:52:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100510,
+100254,Uber_Support,False,Tue Mar 21 05:54:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100253
+100291,Uber_Support,False,Wed Dec 13 05:14:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100292,100290
+100116,Uber_Support,False,Mon Feb 20 20:55:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100117,100115
+100429,Uber_Support,False,Fri Apr 07 08:14:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100428
+100289,Uber_Support,False,Sun Jan 15 19:21:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100288
+100091,64198427,True,Thu May 04 11:14:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100092,
+100326,Uber_Support,False,Wed May 31 11:44:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100327,100325
+100623,49583565,True,Sat Sep 09 06:34:00 +0000 2023,ok thank you,,100622
+100570,57435208,True,Sat Apr 01 18:16:00 +0000 2023,when is uber eats getting more restaurant options in my area @Uber_Support,100571,
+100282,98428371,True,Sun May 14 18:49:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100283,
+100484,41454364,True,Sun Oct 22 01:07:00 +0000 2023,sent!,,100483
+100378,56792606,True,Tue Feb 28 14:10:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support 🙏,100379,
+100194,27175419,True,Thu Aug 17 02:12:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100195,
+100079,Uber_Support,False,Wed Jan 11 04:59:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100080,100078
+100155,Uber_Support,False,Sat Sep 30 03:54:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100154
+100387,Uber_Support,False,Tue Aug 08 20:32:00 +0000 2023,This is incredibly concerning and we want to help immediately. Can you please contact our dedicated safety team here: https://help.uber.com/safety,,100386
+100101,67085086,True,Wed Nov 22 23:07:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100102,
+100220,37837083,True,Fri May 19 10:03:00 +0000 2023,still waiting to hear back,,100219
+100082,Uber_Support,False,Sat Dec 09 20:10:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100081
+100621,49583565,True,Sat Sep 09 04:19:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100622,
+100461,21129969,True,Wed Aug 23 15:46:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100462,
+100207,Uber_Support,False,Sun Mar 26 01:05:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100206
+100638,32738446,True,Fri Jan 13 00:35:00 +0000 2023,"done, sent the details",,100637
+100346,89251917,True,Thu Oct 05 08:26:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100347,
+100364,Uber_Support,False,Sat Jul 01 11:24:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,,100363
+100112,12474155,True,Sun Sep 24 23:27:00 +0000 2023,still waiting to hear back,,100111
+100375,32756687,True,Sun Jun 18 15:58:00 +0000 2023,just dm'd you,,100374
+100311,95797050,True,Mon Nov 13 21:32:00 +0000 2023,ok thank you,,100310
+100138,Uber_Support,False,Thu Aug 17 01:03:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100137
+100058,96319863,True,Tue Jan 31 20:48:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100059,
+100149,48325005,True,Mon Jun 19 04:17:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support 😞,100150,
+100535,41963674,True,Sun Feb 05 13:40:00 +0000 2023,sent!,,100534
+100050,79578048,True,Sun May 14 14:31:00 +0000 2023,just dm'd you,,100049
+100498,72201039,True,Sat Oct 14 15:56:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100499,
+100547,73970094,True,Sat Feb 18 12:38:00 +0000 2023,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately @Uber_Support...",100548,
+100180,Uber_Support,False,Sat Jul 22 09:22:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100179
+100205,Uber_Support,False,Fri May 12 22:27:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,,100204
+100433,Uber_Support,False,Sat Jul 01 05:37:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100434,100432
+100127,Uber_Support,False,Wed Oct 25 11:30:00 +0000 2023,This is incredibly concerning and we want to help immediately. Can you please contact our dedicated safety team here: https://help.uber.com/safety,100128,100126
+100236,67251144,True,Sat Nov 18 15:55:00 +0000 2023,why was I charged double for the same trip?? @Uber_Support,100237,
+100358,22198987,True,Sat Jul 29 04:24:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support!,100359,
+100360,22198987,True,Sat Jul 29 04:39:00 +0000 2023,still waiting to hear back,,100359
+100337,Uber_Support,False,Sun Dec 10 23:37:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100336
+100012,52164119,True,Mon Jun 19 13:36:00 +0000 2023,ok thank you,,100011
+100211,90010830,True,Tue Feb 21 16:02:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support 😡",100212,
+100459,19021960,True,Fri Jan 06 03:28:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100460,
+100179,55896454,True,Sat Jul 22 09:18:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support",100180,
+100353,Uber_Support,False,Tue Apr 18 05:35:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100352
+100339,Uber_Support,False,Sat Dec 02 13:49:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100340,100338
+100409,Uber_Support,False,Sun Jun 18 07:25:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,100410,100408
+100347,Uber_Support,False,Thu Oct 05 09:17:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100348,100346
+100187,Uber_Support,False,Mon Nov 06 01:11:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100186
+100529,24661654,True,Wed Apr 26 19:18:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support 😞",100530,
+100514,74884206,True,Sat Jan 21 07:18:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100515,
+100141,41512392,True,Sat Sep 23 13:01:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support",100142,
+100479,30283041,True,Mon Aug 07 20:49:00 +0000 2023,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride @Uber_Support",100480,
+100550,Uber_Support,False,Wed May 10 16:51:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100549
+100441,73690811,True,Wed Oct 11 12:21:00 +0000 2023,ok thank you,,100440
+100440,Uber_Support,False,Wed Oct 11 12:02:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100441,100439
+100500,14506907,True,Thu Mar 16 12:12:00 +0000 2023,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately @Uber_Support",100501,
+100451,77221981,True,Tue Nov 28 07:18:00 +0000 2023,still waiting to hear back,,100450
+100321,Uber_Support,False,Wed Aug 23 20:11:00 +0000 2023,"Great question -- restaurant availability updates regularly, keep an eye on the app!",100322,100320
+100581,41762938,True,Wed Dec 13 06:02:00 +0000 2023,"done, sent the details",,100580
+100536,55755623,True,Wed Jul 05 23:18:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100537,
+100465,Uber_Support,False,Thu Feb 16 23:55:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100464
+100585,Uber_Support,False,Thu Mar 30 16:12:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100584
+100206,36029282,True,Sun Mar 26 00:50:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100207,
+100182,Uber_Support,False,Fri Sep 29 14:20:00 +0000 2023,Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.,100183,100181
+100144,Uber_Support,False,Sat Oct 07 07:11:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100145,100143
+100204,66446184,True,Fri May 12 21:59:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support...",100205,
+100625,Uber_Support,False,Wed Nov 22 05:10:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100624
+100418,Uber_Support,False,Tue Jun 06 00:34:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100417
+100129,81026618,True,Tue Nov 07 15:47:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100130,
+100295,32160892,True,Thu Sep 07 20:11:00 +0000 2023,"done, sent the details",,100294
+100231,50710220,True,Fri Oct 27 13:20:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100232,
+100090,Uber_Support,False,Fri May 26 00:23:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100089
+100530,Uber_Support,False,Wed Apr 26 20:40:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100529
+100587,Uber_Support,False,Wed Mar 15 07:22:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100586
+100197,45014973,True,Thu Mar 23 09:41:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100198,
+100552,Uber_Support,False,Sun Oct 01 14:04:00 +0000 2023,"Love to hear it, thank you for the kind words!",,100551
+100512,Uber_Support,False,Sat Dec 09 20:57:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100513,100511
+100370,45325491,True,Mon Jun 05 22:16:00 +0000 2023,"done, sent the details",,100369
+100615,Uber_Support,False,Wed Jun 14 23:50:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100616,100614
+100111,Uber_Support,False,Sun Sep 24 22:44:00 +0000 2023,We're so sorry to hear this and want to make sure you're safe. Please reach out to our safety line so a specialist can help right away: https://help.uber.com/safety,100112,100110
+100192,Uber_Support,False,Sun Nov 05 05:12:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100193,100191
+100328,16508321,True,Mon Nov 20 19:16:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100329,
+100237,Uber_Support,False,Sat Nov 18 16:23:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100238,100236
+100181,65550512,True,Fri Sep 29 13:15:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100182,
+100088,26421523,True,Thu Nov 23 15:10:00 +0000 2023,just dm'd you,,100087
+100613,Uber_Support,False,Mon Aug 14 18:25:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100612
+100015,56100526,True,Sat Sep 23 15:16:00 +0000 2023,ok thank you,,100014
+100318,42693863,True,Fri Sep 15 13:59:00 +0000 2023,"my driver was so rude to me the entire trip, wouldn't even say hi @Uber_Support!",100319,
+100148,50858176,True,Tue Aug 15 05:30:00 +0000 2023,still waiting to hear back,,100147
+100029,40970943,True,Fri Feb 24 22:46:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100030,
+100590,14155695,True,Thu Mar 30 06:18:00 +0000 2023,ok thank you,,100589
+100565,Uber_Support,False,Tue Dec 12 06:44:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100564
+100093,64198427,True,Thu May 04 11:47:00 +0000 2023,still waiting to hear back,,100092
+100525,94313315,True,Sun May 14 06:26:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100526,
+100125,Uber_Support,False,Wed Mar 08 15:15:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100124
+100128,45456120,True,Wed Oct 25 11:36:00 +0000 2023,just dm'd you,,100127
+100217,Uber_Support,False,Sun Jun 11 02:58:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,,100216
+100522,Uber_Support,False,Sun Jan 29 08:41:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100521
+100413,97188846,True,Wed Feb 15 13:43:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100414,
+100252,Uber_Support,False,Thu Jul 06 16:01:00 +0000 2023,Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.,,100251
+100558,72268986,True,Mon Jul 10 09:16:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100559,
+100632,Uber_Support,False,Sat Jul 29 03:51:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100633,100631
+100267,31816364,True,Fri Feb 17 07:44:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support 😡,100268,
+100134,12158188,True,Sat Oct 28 21:16:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support 🙏",100135,
+100463,21129969,True,Wed Aug 23 16:43:00 +0000 2023,sent!,,100462
+100232,Uber_Support,False,Fri Oct 27 14:02:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100231
+100209,Uber_Support,False,Thu Nov 23 10:49:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100210,100208
+100516,69227619,True,Tue Oct 03 22:36:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100517,
+100487,75063717,True,Wed Oct 18 07:41:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100488,
+100304,24040355,True,Sun Apr 02 18:17:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100305,
+100213,32230984,True,Sun Apr 30 20:58:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100214,
+100385,62122275,True,Sun Jun 18 23:45:00 +0000 2023,ok thank you,,100384
+100414,Uber_Support,False,Wed Feb 15 14:33:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100413
+100221,69907747,True,Sun Mar 12 06:41:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100222,
+100361,34765747,True,Fri Jun 30 01:43:00 +0000 2023,"left my jacket in the car from my ride tonight, help! @Uber_Support",100362,
+100376,50467677,True,Mon Oct 02 18:58:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100377,
+100626,15679245,True,Sat Sep 09 20:30:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support 🙏,100627,
+100245,43209375,True,Thu Mar 09 15:58:00 +0000 2023,ok thank you,,100244
+100579,41762938,True,Wed Dec 13 04:47:00 +0000 2023,"my driver just got into an accident on the highway, we're both okay but this was terrifying @Uber_Support",100580,
+100453,Uber_Support,False,Wed Aug 30 16:12:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100454,100452
+100130,Uber_Support,False,Tue Nov 07 16:30:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100129
+100557,Uber_Support,False,Sun Jan 08 02:02:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100556
+100276,31511900,True,Tue Aug 22 04:19:00 +0000 2023,just dm'd you,,100275
+100201,42528686,True,Fri Jun 23 02:54:00 +0000 2023,sent!,,100200
+100094,61585853,True,Mon May 01 16:40:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100095,
+100132,Uber_Support,False,Thu Sep 21 16:52:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,100133,100131
+100247,Uber_Support,False,Fri Aug 25 12:40:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100246
+100159,52423277,True,Tue Feb 14 00:31:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100160,
+100349,14620689,True,Tue Dec 12 14:41:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100350,
+100025,Uber_Support,False,Fri Feb 17 02:23:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,100026,100024
+100285,34101347,True,Mon Oct 23 02:30:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support...",100286,
+100035,92891895,True,Sun Aug 27 12:34:00 +0000 2023,sent!,,100034
+100446,54412145,True,Sun Mar 12 01:29:00 +0000 2023,"done, sent the details",,100445
+100242,Uber_Support,False,Wed Oct 11 22:07:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,,100241
+100352,37513753,True,Tue Apr 18 05:01:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100353,
+100290,97610038,True,Wed Dec 13 04:48:00 +0000 2023,"shoutout to my driver tonight, best ride I've had in a while! @Uber_Support 😞",100291,
+100478,Uber_Support,False,Tue May 02 14:51:00 +0000 2023,Sorry to hear that -- send us the trip ID in a DM so we can take a look.,,100477
+100195,Uber_Support,False,Thu Aug 17 02:26:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100196,100194
+100396,93425548,True,Thu Nov 09 15:50:00 +0000 2023,sent!,,100395
+100250,70169425,True,Wed Nov 29 22:17:00 +0000 2023,"done, sent the details",,100249
+100567,Uber_Support,False,Sat Dec 09 17:52:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",,100566
+100359,Uber_Support,False,Sat Jul 29 04:32:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100360,100358
+100432,85506730,True,Sat Jul 01 04:09:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100433,
+100126,45456120,True,Wed Oct 25 11:26:00 +0000 2023,"my driver just got into an accident on the highway, we're both okay but this was terrifying @Uber_Support",100127,
+100067,23793831,True,Tue Jul 11 17:20:00 +0000 2023,"I want a refund for my last trip, it was a mess @Uber_Support",100068,
+100412,Uber_Support,False,Tue May 09 14:43:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100411
+100592,Uber_Support,False,Fri Apr 28 23:23:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100593,100591
+100394,93425548,True,Thu Nov 09 14:00:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100395,
+100546,79734429,True,Mon May 29 15:03:00 +0000 2023,still waiting to hear back,,100545
+100343,38449609,True,Tue May 23 14:10:00 +0000 2023,just dm'd you,,100342
+100117,95359381,True,Mon Feb 20 21:23:00 +0000 2023,ok thank you,,100116
+100371,91248554,True,Thu Aug 24 07:27:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100372,
+100575,40263205,True,Mon Feb 20 19:35:00 +0000 2023,sent!,,100574
+100635,Uber_Support,False,Sat Aug 12 04:50:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100634
+100297,Uber_Support,False,Wed Feb 22 07:50:00 +0000 2023,This made our day! Thank you for sharing -- we'll be sure to pass it along.,100298,100296
+100007,Uber_Support,False,Sun Apr 16 10:53:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,,100006
+100191,96885593,True,Sun Nov 05 04:54:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support,100192,
+100388,40677423,True,Fri Sep 01 04:09:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100389,
+100366,Uber_Support,False,Thu Aug 17 15:10:00 +0000 2023,We'd like to help sort this out -- can you send us your account email via DM?,100367,100365
+100174,Uber_Support,False,Wed Apr 05 17:40:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,100175,100173
+100624,77764837,True,Wed Nov 22 04:23:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support 😞",100625,
+100089,22633303,True,Fri May 26 00:01:00 +0000 2023,"the fare estimate said $12 but I got charged $27, what happened @Uber_Support",100090,
+100249,Uber_Support,False,Wed Nov 29 22:04:00 +0000 2023,We understand. Please DM your trip ID and we'll review it for a possible refund.,100250,100248
+100022,Uber_Support,False,Fri Apr 14 15:37:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,100023,100021
+100496,79419739,True,Thu Nov 09 00:08:00 +0000 2023,driver cancelled on me after waiting 15 minutes and now I got charged a fee @Uber_Support,100497,
+100408,62608350,True,Sun Jun 18 06:02:00 +0000 2023,does uber operate in Cape Town yet? @Uber_Support,100409,
+100316,Uber_Support,False,Thu May 11 01:18:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100317,100315
+100423,Uber_Support,False,Mon Feb 06 23:47:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,,100422
+100226,72283819,True,Mon Jan 23 19:40:00 +0000 2023,"done, sent the details",,100225
+100598,47144417,True,Thu Oct 26 23:41:00 +0000 2023,"I can't add my new card, it keeps saying payment failed @Uber_Support",100599,
+100399,37512207,True,Tue Sep 19 03:49:00 +0000 2023,my driver never showed up and I still got charged for cancelling @Uber_Support,100400,
+100248,70169425,True,Wed Nov 29 21:56:00 +0000 2023,"can I get my money back for this ride, it was way overpriced @Uber_Support",100249,
+100069,23793831,True,Tue Jul 11 17:58:00 +0000 2023,ok thank you,,100068
+100507,Uber_Support,False,Tue Jun 27 06:14:00 +0000 2023,"No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",100508,100506
+100258,Uber_Support,False,Tue Oct 17 14:42:00 +0000 2023,That's not the experience we want for you. Could you DM us the trip details so we can follow up?,,100257
+100617,87048328,True,Sun Feb 26 03:35:00 +0000 2023,"I think I left my phone in the back seat of my uber, how do I get it back @Uber_Support",100618,
+100428,25894409,True,Fri Apr 07 07:11:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support 😡,100429,
+100310,Uber_Support,False,Mon Nov 13 20:52:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100311,100309
+100466,16729503,True,Sun May 14 05:03:00 +0000 2023,my promo code didn't apply and I got charged full price @Uber_Support,100467,
+100006,27874421,True,Sun Apr 16 10:38:00 +0000 2023,driver took a completely different route than the app showed and it cost me extra @Uber_Support...,100007,
+100322,17533716,True,Wed Aug 23 20:14:00 +0000 2023,sent!,,100321
+100177,Uber_Support,False,Thu Jul 20 10:17:00 +0000 2023,We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?,100178,100176
+100601,Uber_Support,False,Wed May 31 10:13:00 +0000 2023,Sorry for the inconvenience! Please DM us the email on your account so we can look into this further.,100602,100600
+100163,58413585,True,Sun Dec 03 22:24:00 +0000 2023,my account got deactivated and I have no idea why @Uber_Support,100164,
+100045,13099855,True,Thu Mar 16 17:11:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100046,
+100228,Uber_Support,False,Sun Dec 03 12:06:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,,100227
+100255,37305494,True,Tue Oct 24 15:20:00 +0000 2023,the app keeps crashing every time I try to request a ride @Uber_Support,100256,
+100244,Uber_Support,False,Thu Mar 09 15:42:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100245,100243
+100637,Uber_Support,False,Fri Jan 13 00:10:00 +0000 2023,Sorry about that! Please DM us your trip ID and email on file so we can review the charge.,100638,100636
+100450,Uber_Support,False,Tue Nov 28 06:37:00 +0000 2023,We're sorry to hear about your experience. Please share your trip ID via DM so we can look into this with the driver.,100451,100449
+100044,Uber_Support,False,Wed Feb 01 07:31:00 +0000 2023,You can report this and contact your driver directly through the app: go to your trip in the app and tap 'I lost an item'.,,100043
+100596,40221410,True,Mon Sep 04 17:28:00 +0000 2023,"the driver was smoking in the car with the windows up, it was so uncomfortable @Uber_Support",100597,
+100405,66181191,True,Thu Nov 30 07:11:00 +0000 2023,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride @Uber_Support",100406,
+100225,Uber_Support,False,Mon Jan 23 19:37:00 +0000 2023,That shouldn't happen. Send us the trip details in a DM and we'll review the charge.,100226,100224
+100055,35990584,True,Sun Sep 10 04:23:00 +0000 2023,sent!,,100054
+100020,87832216,True,Wed Oct 18 05:29:00 +0000 2023,ok thank you,,100019

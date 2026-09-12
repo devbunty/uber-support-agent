@@ -1,0 +1,189 @@
+id,customer_message,true_intent,ideal_escalate,ideal_escalate_reason,source
+S100471,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100315,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100288,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100231,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100523,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100146,"I want a refund for my last trip, it was a mess ...",refund_request,False,mechanical: severity!=high,sampled
+S100063,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100241,my account got deactivated and I have no idea why,account_access,False,mechanical: severity!=high,sampled
+S100344,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100415,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100067,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100584,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100296,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100349,"the driver was smoking in the car with the windows up, it was so uncomfortable",driver_behavior,False,mechanical: severity!=high,sampled
+S100218,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100489,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100457,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100511,"the fare estimate said $12 but I got charged $27, what happened 😞",fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100179,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100269,driver cancelled on me after waiting 15 minutes and now I got charged a fee !,trip_cancellation,False,mechanical: severity!=high,sampled
+S100076,"I think I left my phone in the back seat of my uber, how do I get it back !",lost_item,False,mechanical: severity!=high,sampled
+S100383,why was I charged double for the same trip??,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100579,"my driver just got into an accident on the highway, we're both okay but this was terrifying",safety_incident,True,mechanical: severity==high,sampled
+S100143,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100051,why was I charged double for the same trip??,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100002,"shoutout to my driver tonight, best ride I've had in a while!",feedback_praise,False,mechanical: severity!=high,sampled
+S100386,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately",safety_incident,True,mechanical: severity==high,sampled
+S100018,my account got deactivated and I have no idea why ...,account_access,False,mechanical: severity!=high,sampled
+S100435,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100612,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100004,"the driver was smoking in the car with the windows up, it was so uncomfortable 😞",driver_behavior,False,mechanical: severity!=high,sampled
+S100074,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100619,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100514,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100151,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100525,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100413,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100629,"my driver just got into an accident on the highway, we're both okay but this was terrifying",safety_incident,True,mechanical: severity==high,sampled
+S100494,why was I charged double for the same trip??,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100330,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100141,"shoutout to my driver tonight, best ride I've had in a while!",feedback_praise,False,mechanical: severity!=high,sampled
+S100325,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100072,"I can't add my new card, it keeps saying payment failed 😞",account_access,False,mechanical: severity!=high,sampled
+S100134,"I think I left my phone in the back seat of my uber, how do I get it back 🙏",lost_item,False,mechanical: severity!=high,sampled
+S100224,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100356,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride 😡",safety_incident,True,mechanical: severity==high,sampled
+S100439,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100624,"I think I left my phone in the back seat of my uber, how do I get it back 😞",lost_item,False,mechanical: severity!=high,sampled
+S100380,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100010,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100121,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100363,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100485,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100170,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100096,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100323,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100126,"my driver just got into an accident on the highway, we're both okay but this was terrifying",safety_incident,True,mechanical: severity==high,sampled
+S100078,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100397,"just wanted to say the new app update is so much smoother, nice work !",feedback_praise,False,mechanical: severity!=high,sampled
+S100402,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100600,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100279,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100336,"shoutout to my driver tonight, best ride I've had in a while!",feedback_praise,False,mechanical: severity!=high,sampled
+S100154,"I can't add my new card, it keeps saying payment failed",account_access,False,mechanical: severity!=high,sampled
+S100307,"my driver was so rude to me the entire trip, wouldn't even say hi 🙏",driver_behavior,False,mechanical: severity!=high,sampled
+S100482,"can I get my money back for this ride, it was way overpriced ...",refund_request,False,mechanical: severity!=high,sampled
+S100561,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100188,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100048,"shoutout to my driver tonight, best ride I've had in a while!",feedback_praise,False,mechanical: severity!=high,sampled
+S100239,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100216,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100312,my account got deactivated and I have no idea why !,account_access,False,mechanical: severity!=high,sampled
+S100065,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100570,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100086,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100248,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100262,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100341,"shoutout to my driver tonight, best ride I've had in a while!",feedback_praise,False,mechanical: severity!=high,sampled
+S100161,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100033,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100024,"the driver was smoking in the car with the windows up, it was so uncomfortable",driver_behavior,False,mechanical: severity!=high,sampled
+S100430,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100139,"I want a refund for my last trip, it was a mess 🙏",refund_request,False,mechanical: severity!=high,sampled
+S100045,"the driver was smoking in the car with the windows up, it was so uncomfortable",driver_behavior,False,mechanical: severity!=high,sampled
+S100038,"the driver was smoking in the car with the windows up, it was so uncomfortable",driver_behavior,False,mechanical: severity!=high,sampled
+S100081,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100021,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100361,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100334,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100527,driver took a completely different route than the app showed and it cost me extra ...,driver_behavior,False,mechanical: severity!=high,sampled
+S100043,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100461,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100016,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100053,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100110,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately 😡",safety_incident,True,mechanical: severity==high,sampled
+S100159,"the fare estimate said $12 but I got charged $27, what happened",fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100634,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100285,"can I get my money back for this ride, it was way overpriced ...",refund_request,False,mechanical: severity!=high,sampled
+S100368,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100568,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100464,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100603,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100394,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100444,"can I get my money back for this ride, it was way overpriced 🙏",refund_request,False,mechanical: severity!=high,sampled
+S100027,"the fare estimate said $12 but I got charged $27, what happened",fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100186,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100533,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100091,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100610,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100156,why was I charged double for the same trip??,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100129,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100452,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100371,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100447,my driver never showed up and I still got charged for cancelling !,trip_cancellation,False,mechanical: severity!=high,sampled
+S100000,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100519,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100631,"I think I left my phone in the back seat of my uber, how do I get it back !",lost_item,False,mechanical: severity!=high,sampled
+S100419,"just wanted to say the new app update is so much smoother, nice work ...",feedback_praise,False,mechanical: severity!=high,sampled
+S100191,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100309,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100573,my account got deactivated and I have no idea why,account_access,False,mechanical: severity!=high,sampled
+S100422,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100541,"just wanted to say the new app update is so much smoother, nice work !",feedback_praise,False,mechanical: severity!=high,sampled
+S100564,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100320,when is uber eats getting more restaurant options in my area,other,False,mechanical: severity!=high,sampled
+S100208,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100594,"left my jacket in the car from my ride tonight, help! 😡",lost_item,False,mechanical: severity!=high,sampled
+S100391,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100474,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100013,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100115,my account got deactivated and I have no idea why,account_access,False,mechanical: severity!=high,sampled
+S100516,"I can't add my new card, it keeps saying payment failed",account_access,False,mechanical: severity!=high,sampled
+S100197,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100405,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride",safety_incident,True,mechanical: severity==high,sampled
+S100373,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100598,"I can't add my new card, it keeps saying payment failed",account_access,False,mechanical: severity!=high,sampled
+S100290,"shoutout to my driver tonight, best ride I've had in a while! 😞",feedback_praise,False,mechanical: severity!=high,sampled
+S100267,driver cancelled on me after waiting 15 minutes and now I got charged a fee 😡,trip_cancellation,False,mechanical: severity!=high,sampled
+S100098,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100479,"the driver kept swerving and going way too fast, i genuinely felt unsafe the whole ride",safety_incident,True,mechanical: severity==high,sampled
+S100496,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100551,"shoutout to my driver tonight, best ride I've had in a while! 🙏",feedback_praise,False,mechanical: severity!=high,sampled
+S100442,"the fare estimate said $12 but I got charged $27, what happened",fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100166,when is uber eats getting more restaurant options in my area ...,other,False,mechanical: severity!=high,sampled
+S100058,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100221,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100424,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100605,my promo code didn't apply and I got charged full price,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100608,"left my jacket in the car from my ride tonight, help! ...",lost_item,False,mechanical: severity!=high,sampled
+S100614,"my driver was so rude to me the entire trip, wouldn't even say hi",driver_behavior,False,mechanical: severity!=high,sampled
+S100529,"the fare estimate said $12 but I got charged $27, what happened 😞",fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100029,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100352,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100272,driver took a completely different route than the app showed and it cost me extra,driver_behavior,False,mechanical: severity!=high,sampled
+S100056,my driver never showed up and I still got charged for cancelling,trip_cancellation,False,mechanical: severity!=high,sampled
+S100304,"I can't add my new card, it keeps saying payment failed",account_access,False,mechanical: severity!=high,sampled
+S100176,why was I charged double for the same trip??,fare_billing_dispute,False,mechanical: severity!=high,sampled
+S100547,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately ...",safety_incident,True,mechanical: severity==high,sampled
+S100556,"I want a refund for my last trip, it was a mess",refund_request,False,mechanical: severity!=high,sampled
+S100500,"I was harassed by my driver during my ride tonight, this needs to be looked at immediately",safety_incident,True,mechanical: severity==high,sampled
+S100265,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100426,"left my jacket in the car from my ride tonight, help!",lost_item,False,mechanical: severity!=high,sampled
+S100408,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100549,"left my jacket in the car from my ride tonight, help! ...",lost_item,False,mechanical: severity!=high,sampled
+S100576,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100588,"can I get my money back for this ride, it was way overpriced",refund_request,False,mechanical: severity!=high,sampled
+S100181,driver cancelled on me after waiting 15 minutes and now I got charged a fee,trip_cancellation,False,mechanical: severity!=high,sampled
+S100040,my account got deactivated and I have no idea why,account_access,False,mechanical: severity!=high,sampled
+S100591,"just wanted to say the new app update is so much smoother, nice work",feedback_praise,False,mechanical: severity!=high,sampled
+S100213,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+S100101,the app keeps crashing every time I try to request a ride,account_access,False,mechanical: severity!=high,sampled
+S100506,"I think I left my phone in the back seat of my uber, how do I get it back",lost_item,False,mechanical: severity!=high,sampled
+S100293,does uber operate in Cape Town yet?,other,False,mechanical: severity!=high,sampled
+H001,"great, ANOTHER driver who cancels on me right as I'm walking out the door. love this app",trip_cancellation,False,Sarcastic tone but the underlying issue is a routine cancellation -- escalating every sarcastic tweet would swamp humans with low-severity noise.,hand_authored
+H002,my driver was texting the whole ride AND then tried to charge me a cleaning fee for nothing,driver_behavior,True,Mixed intent (unsafe distracted driving + billing dispute); the safety-adjacent half means this should go to a human even though 'driver_behavior' alone is medium severity.,hand_authored
+H003,...,other,True,"No content at all -- nothing to classify or ground a reply in, must go to a human.",hand_authored
+H004,still nothing???,other,True,"Almost certainly a follow-up to an earlier unresolved thread, but with no context attached a bot cannot know what 'nothing' refers to.",hand_authored
+H005,uber pls,other,True,"Too little information to classify confidently; auto-handling here risks a generic, unhelpful reply to what could be anything from a joke to a real complaint.",hand_authored
+H006,"the driver dropped me at the wrong location and then it was pitch black and unfamiliar, I had to walk 20 min alone at night",safety_incident,True,"Not an assault/accident, but a real safety consequence of an operational mistake -- hard policy on safety_incident should catch this, testing whether the classifier does too.",hand_authored
+H007,"can you guys just fix your app already, 3rd time crashing today",account_access,False,"Frustrated tone but a clear, common, low-severity technical complaint with a well-established resolution path (DM for troubleshooting).",hand_authored
+H008,I was double charged AND my driver was incredibly rude about it when I asked him to explain,fare_billing_dispute,True,"Mixed billing + behavior; billing precedent alone wouldn't address the behavior complaint, so grounding would be incomplete -- should escalate rather than under-serve half the issue.",hand_authored
+H009,"thank you for refunding my trip so quickly earlier, appreciate it!",feedback_praise,False,"Clearly closed-loop positive feedback, no action needed, safe to auto-ack.",hand_authored
+H010,is this the right account to ask about a job driving for uber?,other,False,"Off-topic for rider support but low-stakes; a generic 'wrong department, try X' reply is safe to auto-send.",hand_authored
+H011,"I think my ex is using my old uber account to see where I am, is that possible??",safety_incident,True,Potential stalking/privacy-safety issue disguised as an account question -- a good test of whether the classifier over-indexes on the word 'account' and misses the real signal.,hand_authored
+H012,"charged me twice for one trip, this is ridiculous, fix it now",fare_billing_dispute,False,"Angry tone but a completely standard, low-severity billing dispute with a clear precedent -- tone alone shouldn't force escalation.",hand_authored
+H013,"my card was charged for a ride I never took, I wasn't even in that city",fare_billing_dispute,True,"Possible fraud/unauthorized account use, not a routine fare dispute -- should escalate even though surface keywords look like an ordinary billing complaint.",hand_authored
+H014,"left my medication in the car, I need it back today, it's not optional",lost_item,True,"Surface-level identical to a routine lost-item case, but the stated urgency (medical need) means the standard 'check the app' reply is inadequate -- tests whether severity is content-aware or purely intent-label-based.",hand_authored
+H015,does the driver see my full name or just my first name?,other,False,"Simple factual/privacy question, no dispute, safe to auto-answer or route generically.",hand_authored

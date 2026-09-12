@@ -1,0 +1,153 @@
+{
+  "n_golden": 188,
+  "intent_distribution": {
+    "other": 26,
+    "fare_billing_dispute": 24,
+    "trip_cancellation": 22,
+    "lost_item": 22,
+    "driver_behavior": 22,
+    "account_access": 22,
+    "refund_request": 21,
+    "feedback_praise": 17,
+    "safety_incident": 12
+  },
+  "intent_metrics": {
+    "trivial": {
+      "accuracy": 0.138,
+      "macro_f1": 0.027
+    },
+    "simple": {
+      "accuracy": 0.628,
+      "macro_f1": 0.644
+    },
+    "pipeline": {
+      "accuracy": 0.628,
+      "macro_f1": 0.644
+    }
+  },
+  "escalation_metrics": {
+    "trivial": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "simple": {
+      "precision": 1.0,
+      "recall": 0.368,
+      "f1": 0.538
+    },
+    "pipeline": {
+      "precision": 0.178,
+      "recall": 0.947,
+      "f1": 0.3
+    }
+  },
+  "judge_quality": {
+    "mean": 3.0,
+    "pct_bad": 0.0
+  },
+  "fallback_rate_pct": 0.0,
+  "breakdown_by_source": [
+    {
+      "source": "hand_authored",
+      "n": 15,
+      "pipeline_accuracy": 0.333,
+      "mean_judge_score": 3.0
+    },
+    {
+      "source": "sampled",
+      "n": 173,
+      "pipeline_accuracy": 0.653,
+      "mean_judge_score": 3.0
+    }
+  ],
+  "judge_agreement": {
+    "n": 40,
+    "exact_match_pct": 2.5,
+    "within_1_pct": 82.5,
+    "mae": 1.15,
+    "judge_is_constant": true
+  },
+  "worst_cases": [
+    {
+      "id": "S100471",
+      "customer_message": "driver cancelled on me after waiting 15 minutes and now I got charged a fee",
+      "true_intent": "trip_cancellation",
+      "pipeline_intent": "trip_cancellation",
+      "pipeline_draft_reply": "Sorry for the trouble! Please DM your trip ID and we'll take a look at the cancellation fee.",
+      "judge_score": 3,
+      "pipeline_escalate": false,
+      "pipeline_escalate_reason": "Intent 'trip_cancellation' (low severity), classifier confidence 0.70, and grounding similarity 1.00 all clear the auto-handle bar."
+    },
+    {
+      "id": "S100315",
+      "customer_message": "my promo code didn't apply and I got charged full price",
+      "true_intent": "fare_billing_dispute",
+      "pipeline_intent": "other",
+      "pipeline_draft_reply": "We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?",
+      "judge_score": 3,
+      "pipeline_escalate": true,
+      "pipeline_escalate_reason": "Classifier confidence 0.35 is below threshold 0.6."
+    },
+    {
+      "id": "S100288",
+      "customer_message": "I think I left my phone in the back seat of my uber, how do I get it back",
+      "true_intent": "lost_item",
+      "pipeline_intent": "lost_item",
+      "pipeline_draft_reply": "No worries, we can help with that! Please use the 'Find Lost Item' option in your app under trip history to contact your driver directly.",
+      "judge_score": 3,
+      "pipeline_escalate": false,
+      "pipeline_escalate_reason": "Intent 'lost_item' (low severity), classifier confidence 0.70, and grounding similarity 1.00 all clear the auto-handle bar."
+    },
+    {
+      "id": "S100231",
+      "customer_message": "my promo code didn't apply and I got charged full price",
+      "true_intent": "fare_billing_dispute",
+      "pipeline_intent": "other",
+      "pipeline_draft_reply": "We'd like to take a closer look. Can you send us the trip ID via DM so we can check the fare breakdown?",
+      "judge_score": 3,
+      "pipeline_escalate": true,
+      "pipeline_escalate_reason": "Classifier confidence 0.35 is below threshold 0.6."
+    },
+    {
+      "id": "S100523",
+      "customer_message": "does uber operate in Cape Town yet?",
+      "true_intent": "other",
+      "pipeline_intent": "other",
+      "pipeline_draft_reply": "Thanks for reaching out! Availability varies by city -- check the app to see current service in your area.",
+      "judge_score": 3,
+      "pipeline_escalate": true,
+      "pipeline_escalate_reason": "Classifier confidence 0.35 is below threshold 0.6."
+    },
+    {
+      "id": "S100146",
+      "customer_message": "I want a refund for my last trip, it was a mess ...",
+      "true_intent": "refund_request",
+      "pipeline_intent": "refund_request",
+      "pipeline_draft_reply": "We understand. Please DM your trip ID and we'll review it for a possible refund.",
+      "judge_score": 3,
+      "pipeline_escalate": false,
+      "pipeline_escalate_reason": "Intent 'refund_request' (low severity), classifier confidence 0.70, and grounding similarity 1.00 all clear the auto-handle bar."
+    },
+    {
+      "id": "S100063",
+      "customer_message": "my driver was so rude to me the entire trip, wouldn't even say hi",
+      "true_intent": "driver_behavior",
+      "pipeline_intent": "driver_behavior",
+      "pipeline_draft_reply": "That's not the experience we want for you. Could you DM us the trip details so we can follow up?",
+      "judge_score": 3,
+      "pipeline_escalate": false,
+      "pipeline_escalate_reason": "Intent 'driver_behavior' (medium severity), classifier confidence 0.70, and grounding similarity 1.00 all clear the auto-handle bar."
+    },
+    {
+      "id": "S100241",
+      "customer_message": "my account got deactivated and I have no idea why",
+      "true_intent": "account_access",
+      "pipeline_intent": "other",
+      "pipeline_draft_reply": "We'd like to help sort this out -- can you send us your account email via DM?",
+      "judge_score": 3,
+      "pipeline_escalate": true,
+      "pipeline_escalate_reason": "Classifier confidence 0.35 is below threshold 0.6."
+    }
+  ]
+}

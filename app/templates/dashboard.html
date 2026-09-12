@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+{% block title %}Ledger — Uber_Support Agent Case File{% endblock %}
+{% block content %}
+
+{% if missing %}
+<section class="panel">
+  <p class="empty-state">No ledger data yet. Run:</p>
+  <pre>python -m eval.eval_harness
+python -m eval.judge_agreement
+python -m eval.generate_dashboard_data</pre>
+  <p class="empty-state">then reload this page.</p>
+</section>
+{% else %}
+
+<section class="ledger-summary">
+  <div class="stat-block">
+    <span class="stat-number">{{ data.n_golden }}</span>
+    <span class="stat-label">cases on file</span>
+  </div>
+  <div class="stat-block">
+    <span class="stat-number">{{ (data.intent_metrics.pipeline.accuracy * 100) | round(1) }}%</span>
+    <span class="stat-label">intent accuracy</span>
+  </div>
+  <div class="stat-block warn">
+    <span class="stat-number">{{ (data.escalation_metrics.pipeline.precision * 100) | round(1) }}%</span>
+    <span class="stat-label">escalation precision</span>
+  </div>
+  <div class="stat-block">
+    <span class="stat-number">{{ (data.escalation_metrics.pipeline.recall * 100) | round(1) }}%</span>
+    <span class="stat-label">escalation recall</span>
+  </div>
+</section>
+
+<section class="panel">
+  <h2>Exhibit A — Intent Classification</h2>
+  <p class="panel-note">Pipeline vs. trivial (majority class) and simple (keyword rule) baselines.</p>
+  <canvas id="intentChart" height="90"></canvas>
+</section>
+
+<section class="panel">
+  <h2>Exhibit B — Escalation Decision</h2>
+  <p class="panel-note">Positive class = escalate. High recall paired with low precision means the policy is over-escalating — see report &sect;3.2.</p>
+  <canvas id="escalationChart" height="90"></canvas>
+</section>
+
+<section class="panel two-col">
+  <div>
+    <h2>Exhibit C — Reply Quality (Judge)</h2>
+    <table class="ledger-table">
+      <tr><td>Mean score (1&ndash;5)</td><td>{{ data.judge_quality.mean }}</td></tr>
+      <tr><td>% scoring &le;2 (bad)</td><td>{{ data.judge_quality.pct_bad }}%</td></tr>
+      <tr><td>Classifier fallback rate</td><td>{{ data.fallback_rate_pct }}%</td></tr>
+    </table>
+    {% if data.judge_agreement.judge_is_constant %}
+    <p class="flag">FLAGGED: judge output has zero variance across {{ data.judge_agreement.n }} hand-checked cases — the "mean 3.00" above is a constant, not a measurement. See report &sect;4.</p>
+    {% endif %}
+  </div>
+  <div>
+    <h2>Exhibit D — Judge vs. Human Agreement</h2>
+    {% if data.judge_agreement %}
+    <table class="ledger-table">
+      <tr><td>Hand-checked n</td><td>{{ data.judge_agreement.n }}</td></tr>
+      <tr><td>Exact match</td><td>{{ data.judge_agreement.exact_match_pct }}%</td></tr>
+      <tr><td>Within &plusmn;1 point</td><td>{{ data.judge_agreement.within_1_pct }}%</td></tr>
+      <tr><td>Mean absolute error</td><td>{{ data.judge_agreement.mae }}</td></tr>
+    </table>
+    {% else %}
+    <p class="empty-state">Run <code>python -m eval.judge_agreement</code> first.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="panel">
+  <h2>Exhibit E — Sampled vs. Hand-Authored (Edge Case) Split</h2>
+  <table class="ledger-table wide">
+    <thead><tr><th>Source</th><th>n</th><th>Pipeline accuracy</th><th>Mean judge score</th></tr></thead>
+    <tbody>
+    {% for row in data.breakdown_by_source %}
+      <tr>
+        <td>{{ row.source }}</td>
+        <td>{{ row.n }}</td>
+        <td>{{ (row.pipeline_accuracy * 100) | round(1) }}%</td>
+        <td>{{ row.mean_judge_score }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="panel">
+  <h2>Exhibit F — Lowest-Scoring Cases</h2>
+  <div class="case-cards">
+    {% for c in data.worst_cases %}
+    <div class="mini-case">
+      <div class="mini-case-head">
+        <span class="case-id">{{ c.id }}</span>
+        <span class="badge {% if c.pipeline_escalate %}badge-escalate{% else %}badge-auto{% endif %}">
+          {{ 'ESCALATED' if c.pipeline_escalate else 'AUTO-HANDLED' }}
+        </span>
+        <span class="judge-score">score {{ c.judge_score }}/5</span>
+      </div>
+      <p class="mini-msg">&ldquo;{{ c.customer_message }}&rdquo;</p>
+      <p class="mini-meta">true: {{ c.true_intent }} &rarr; predicted: {{ c.pipeline_intent }}</p>
+      <p class="mini-draft">{{ c.pipeline_draft_reply }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const inkText = '#262117';
+  const gridColor = 'rgba(38,33,23,0.12)';
+  Chart.defaults.font.family = "'IBM Plex Mono', monospace";
+  Chart.defaults.color = inkText;
+
+  const intentData = {{ data.intent_metrics | tojson }};
+  new Chart(document.getElementById('intentChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Trivial', 'Simple (keyword)', 'Pipeline'],
+      datasets: [
+        { label: 'Accuracy', data: [intentData.trivial.accuracy, intentData.simple.accuracy, intentData.pipeline.accuracy], backgroundColor: '#2F6F63' },
+        { label: 'Macro F1', data: [intentData.trivial.macro_f1, intentData.simple.macro_f1, intentData.pipeline.macro_f1], backgroundColor: '#B5651D' },
+      ]
+    },
+    options: { scales: { y: { beginAtZero: true, max: 1, grid: { color: gridColor } }, x: { grid: { display: false } } } }
+  });
+
+  const escData = {{ data.escalation_metrics | tojson }};
+  new Chart(document.getElementById('escalationChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Trivial (never)', 'Simple (safety kw)', 'Pipeline'],
+      datasets: [
+        { label: 'Precision', data: [escData.trivial.precision, escData.simple.precision, escData.pipeline.precision], backgroundColor: '#2F6F63' },
+        { label: 'Recall', data: [escData.trivial.recall, escData.simple.recall, escData.pipeline.recall], backgroundColor: '#B5651D' },
+      ]
+    },
+    options: { scales: { y: { beginAtZero: true, max: 1, grid: { color: gridColor } }, x: { grid: { display: false } } } }
+  });
+</script>
+
+{% endif %}
+{% endblock %}
